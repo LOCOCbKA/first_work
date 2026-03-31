@@ -1,6 +1,6 @@
 # main.py
 print("Добро пожаловать в супер-калькулятор v.2")
-def add(a, b):
+def add(world):
     return a + b
 def subtract(a, b):   # <-- Новая функция
     return a - b
